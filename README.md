@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Animan, I'm a front end developer looking for a new role in Singapore.
+My name is Animan, I'm a front end developer.
 
 In 2022 I'm working on..
  - Bettering my React skills by building projects using popular libraries that are used by companies in production 
