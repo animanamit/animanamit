@@ -2,7 +2,7 @@
 
 My name is Animan, I'm a front end developer.
 
-In 2022 I'm working on..
+In 2023 I'm working on..
  - Bettering my React skills by building projects using popular libraries that are used by companies in production 
  - Learning Typescript by using it in place of Javascript as much as possible
  - Building my full stack skills by trying to create backends for my frontend-heavy projects.
